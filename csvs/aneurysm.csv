@@ -1,0 +1,63 @@
+condition,condition_cui,label,label_cui,label_score,label_semantic_types,label_ncts,label_bucket,label_ncts_count
+aneurysm,C0002940,intracranial aneurysm,['C0007766'],0.60499086,disease or syndrome,"['NCT00029133', 'NCT00288405', 'NCT01101347', 'NCT01323439', 'NCT01420991', 'NCT01503775', 'NCT01840761', 'NCT02037932', 'NCT02390037', 'NCT02607501', 'NCT02848612', 'NCT03145701', 'NCT03359252', 'NCT03496415', 'NCT03642639', 'NCT04155606', 'NCT04305626', 'NCT04380350', 'NCT04499508']",have_had,19.0
+aneurysm,C0002940,aortic aneurysm,['C0003486'],0.24456716,disease or syndrome,"['NCT00538421', 'NCT03484013', 'NCT04224675', 'NCT03165279', 'NCT01420991', 'NCT01526811', 'NCT01094938', 'NCT01670903', 'NCT01234610', 'NCT01756833', 'NCT04269447']",have_had,11.0
+aneurysm,C0002940,stroke,['C0038454'],0.1778697,disease or syndrome,"['NCT01343537', 'NCT00905931', 'NCT01420991', 'NCT01840761', 'NCT02638701']",have_had,5.0
+aneurysm,C0002940,ruptured aneurysm,['C0162869'],0.13714636,disease or syndrome,"['NCT03642639', 'NCT01343537', 'NCT01420991', 'NCT00549380', 'NCT00282893', 'NCT01503775']",have_had,6.0
+aneurysm,C0002940,cerebral aneurysm,['C0917996'],0.09109880000000001,disease or syndrome,"['NCT01840761', 'NCT00972790', 'NCT00282893', 'NCT02167997']",have_had,4.0
+aneurysm,C0002940,burning,['C0085624'],0.0832173,sign or symptom,['NCT01343537'],have_had,1.0
+aneurysm,C0002940,brain aneurysm,['C0751003'],0.0765449,disease or syndrome,"['NCT01840761', 'NCT02878967', 'NCT03140020', 'NCT03496415']",have_had,4.0
+aneurysm,C0002940,aneurysm repair,['C0189661'],0.072217224,therapeutic or preventive procedure,"['NCT03165279', 'NCT03061487', 'NCT03499431', 'NCT02372214', 'NCT01970605']",have_had,5.0
+aneurysm,C0002940,subclinical status epilepticus,['C0751522'],0.07008596,disease or syndrome,['NCT01343537'],have_had,1.0
+aneurysm,C0002940,skin lesions,['C0037284'],0.06875397999999999,disease or syndrome,['NCT04246125'],have_had,1.0
+aneurysm,C0002940,artery diseases,['C0852949'],0.06731492,disease or syndrome,['NCT01178710'],have_had,1.0
+aneurysm,C0002940,aneurysmectomy,['C0189598'],0.060320925000000004,therapeutic or preventive procedure,['NCT03061487'],have_had,1.0
+aneurysm,C0002940,cerebral infarction,['C0007785'],0.05843216,disease or syndrome,['NCT01840761'],have_had,1.0
+aneurysm,C0002940,aortic rupture,['C0003496'],0.05776646,disease or syndrome,['NCT04224675'],have_had,1.0
+aneurysm,C0002940,neurovascular disorder,['C3898144'],0.05235244,disease or syndrome,"['NCT04305626', 'NCT04305704']",have_had,2.0
+aneurysm,C0002940,q-fever,['C0034362'],0.04912634,disease or syndrome,['NCT01450501'],have_had,1.0
+aneurysm,C0002940,anesthesia,['C4049933'],0.04877802,pharmacologic substance,"['NCT00972790', 'NCT03073889']",looking_for,2.0
+aneurysm,C0002940,invasive treatment,['C0683468'],0.047604384,therapeutic or preventive procedure,"['NCT01756833', 'NCT02638701']",have_had,2.0
+aneurysm,C0002940,subarachnoid hemorrhage,['C0038525'],0.039726939999999995,disease or syndrome,"['NCT01664520', 'NCT01343537', 'NCT00905931', 'NCT01420991', 'NCT01840761', 'NCT00282893', 'NCT00029133']",have_had,7.0
+aneurysm,C0002940,calcium,"['C0006675', 'C0201925']",0.03782179,pharmacologic substance|biologically active substance|laboratory procedure,"['NCT00874250', 'NCT03285100']",looking_for,2.0
+aneurysm,C0002940,hydroxychloroquine,['C0020336'],0.03249461,pharmacologic substance|organic chemical,['NCT01450501'],looking_for,1.0
+aneurysm,C0002940,oral anticoagulants,['C0354604'],0.02808298,pharmacologic substance|organic chemical,['NCT03285100'],looking_for,1.0
+aneurysm,C0002940,surgical reconstruction,['C0524865'],0.027284922,therapeutic or preventive procedure,['NCT01970605'],have_had,1.0
+aneurysm,C0002940,infected aneurysm,['C0002950'],0.0264319,disease or syndrome,['NCT01450501'],have_had,1.0
+aneurysm,C0002940,epileptic,['C0014544'],0.02626488,disease or syndrome,['NCT00972790'],have_had,1.0
+aneurysm,C0002940,p2y12 receptor antagonists,['C2936585'],0.02407686,pharmacologic substance,"['NCT04305626', 'NCT04305704']",looking_for,2.0
+aneurysm,C0002940,ct scan,['C0040405'],0.023152062,diagnostic procedure,['NCT01756833'],have_had,1.0
+aneurysm,C0002940,surgical menopause,['C0740421'],0.022551300000000003,disease or syndrome,['NCT01756833'],have_had,1.0
+aneurysm,C0002940,neurological monitoring,['C0150281'],0.020053737,therapeutic or preventive procedure,['NCT01343537'],have_had,1.0
+aneurysm,C0002940,remifentanil,['C0246631'],0.01898039,pharmacologic substance|organic chemical,['NCT00538421'],looking_for,1.0
+aneurysm,C0002940,graft failure,['C1262018'],0.018892811,pathologic function,['NCT01970605'],have_had,1.0
+aneurysm,C0002940,vasospasm,['C0085616'],0.018189332000000002,pathologic function,"['NCT01840761', 'NCT00905931', 'NCT01343537', 'NCT00282893']",have_had,4.0
+aneurysm,C0002940,embolization procedure,['C0013931'],0.017781345,therapeutic or preventive procedure,['NCT02848612'],have_had,1.0
+aneurysm,C0002940,atorvastatin,['C0286651'],0.01762199,pharmacologic substance|organic chemical,['NCT03061487'],looking_for,1.0
+aneurysm,C0002940,heart surgery,['C0018821'],0.015921486,therapeutic or preventive procedure,['NCT01178710'],have_had,1.0
+aneurysm,C0002940,cerebral angiography,['C0007767'],0.015331344,diagnostic procedure,['NCT03145701'],have_had,1.0
+aneurysm,C0002940,traditional chinese medicine,['C1515884'],0.014954553,therapeutic or preventive procedure,['NCT01840761'],have_had,1.0
+aneurysm,C0002940,minocycline,['C0026187'],0.014831856,organic chemical|antibiotic,['NCT00243893'],looking_for,1.0
+aneurysm,C0002940,collagenase,['C0162745'],0.01418155,pharmacologic substance,['NCT03061487'],looking_for,1.0
+aneurysm,C0002940,brain surgery,['C0195775'],0.013796010000000001,therapeutic or preventive procedure,['NCT00972790'],have_had,1.0
+aneurysm,C0002940,"surgery, skin",['C3266910'],0.013741488000000001,therapeutic or preventive procedure,['NCT03073889'],have_had,1.0
+aneurysm,C0002940,thoracotomy,['C0039991'],0.012445101,therapeutic or preventive procedure,['NCT00874250'],have_had,1.0
+aneurysm,C0002940,opioid,['C0242402'],0.012003300000000001,pharmacologic substance|organic chemical|hazardous or poisonous substance,"['NCT00538421', 'NCT00972790', 'NCT03073889']",looking_for,3.0
+aneurysm,C0002940,gla-protein,['C0029419'],0.011729988,biologically active substance,['NCT03285100'],looking_for,1.0
+aneurysm,C0002940,malignancy,['C0006826'],0.011707014,neoplastic process,['NCT01970605'],have_had,1.0
+aneurysm,C0002940,vascular injury,['C0178324'],0.01100277,injury or poisoning,['NCT00905931'],have_had,1.0
+aneurysm,C0002940,angiography,['C0002978'],0.010615902,diagnostic procedure,"['NCT03145701', 'NCT02167997', 'NCT00282893', 'NCT01503775', 'NCT01381952']",have_had,5.0
+aneurysm,C0002940,brain mri,['C4028269'],0.010538909999999999,diagnostic procedure,['NCT03496415'],have_had,1.0
+aneurysm,C0002940,postoperative complications,['C0032787'],0.010492678,pathologic function,['NCT03073889'],have_had,1.0
+aneurysm,C0002940,aortic anastomosis,['C2609076'],0.009631674000000002,therapeutic or preventive procedure,['NCT01653769'],have_had,1.0
+aneurysm,C0002940,hydrogel,['C0063083'],0.009352260000000001,pharmacologic substance|organic chemical,['NCT02037932'],looking_for,1.0
+aneurysm,C0002940,sevoflurane,['C0074414'],0.00769904,pharmacologic substance|organic chemical,['NCT00538421'],looking_for,1.0
+aneurysm,C0002940,il-10,['C0085295'],0.00765142,pharmacologic substance,['NCT03073889'],looking_for,1.0
+aneurysm,C0002940,aspirin,['C0004057'],0.00758974,pharmacologic substance|organic chemical,['NCT04224675'],looking_for,1.0
+aneurysm,C0002940,detachment,['C0595950'],0.0075790399999999996,pathologic function,['NCT04499508'],have_had,1.0
+aneurysm,C0002940,ctag,['C0536940'],0.0057103019999999996,biologically active substance,['NCT00874250'],looking_for,1.0
+aneurysm,C0002940,antihypertensive drugs,"['C0003364', 'C2879510']",0.00402012,pharmacologic substance|injury or poisoning,"['NCT01670903', 'NCT04224675']",looking_for,2.0
+aneurysm,C0002940,atenolol,['C0004147'],0.003889,pharmacologic substance|organic chemical,['NCT04224675'],looking_for,1.0
+aneurysm,C0002940,beta-blocker,['C0001645'],0.00185065,pharmacologic substance,['NCT04224675'],looking_for,1.0
+aneurysm,C0002940,rosuvastatin,['C0965129'],0.00164946,pharmacologic substance|organic chemical,['NCT03061487'],looking_for,1.0
+aneurysm,C0002940,il-6,['C0021760'],0.00145836,pharmacologic substance|biologically active substance,['NCT03073889'],looking_for,1.0
+aneurysm,C0002940,vitamin k antagonist,"['C2267235', 'C1096489']",0.00130447,pharmacologic substance|therapeutic or preventive procedure,['NCT03285100'],looking_for,1.0

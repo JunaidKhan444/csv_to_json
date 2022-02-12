@@ -1,0 +1,52 @@
+condition,condition_cui,label,label_cui,label_score,label_semantic_types,label_ncts,label_bucket,label_ncts_count
+dyslexia,C0476254,developmental dyslexia,['C0920296'],0.32495832,mental or behavioral dysfunction,"['NCT00068835', 'NCT00245804', 'NCT00254644', 'NCT02217696', 'NCT02393729', 'NCT02622360', 'NCT02791841', 'NCT03448237', 'NCT04028310', 'NCT04157829', 'NCT04287530', 'NCT04382482', 'NCT04384718', 'NCT04384952']",have_had,14.0
+dyslexia,C0476254,deficit,['C4761312'],0.23418548,disease or syndrome,"['NCT00254644', 'NCT04277351', 'NCT04384952', 'NCT02872870', 'NCT01860027', 'NCT01012778', 'NCT00607919', 'NCT02217696', 'NCT03364010', 'NCT04287530', 'NCT00245804', 'NCT00191906', 'NCT03285789']",have_had,13.0
+dyslexia,C0476254,reading disorder,['C0037789'],0.152324406,mental or behavioral dysfunction,"['NCT00068835', 'NCT00191906', 'NCT00245804', 'NCT01860027', 'NCT02316873', 'NCT04287530', 'NCT04382482', 'NCT04384718']",have_had,8.0
+dyslexia,C0476254,learning disorder,['C0023186'],0.134260362,mental or behavioral dysfunction,"['NCT04382482', 'NCT04157829', 'NCT02217696', 'NCT03364010', 'NCT04287530', 'NCT02393729', 'NCT04384718']",have_had,7.0
+dyslexia,C0476254,learning disability,['C0751265'],0.133514928,mental or behavioral dysfunction,"['NCT00245804', 'NCT00254644', 'NCT01860027', 'NCT02964884', 'NCT03364010', 'NCT04122820', 'NCT04323488', 'NCT04384952', 'NCT04386161']",have_had,9.0
+dyslexia,C0476254,reading disabilities,['C0871215'],0.10695737699999999,mental or behavioral dysfunction,"['NCT00061412', 'NCT00065832', 'NCT01860027', 'NCT02964884', 'NCT04059939']",have_had,5.0
+dyslexia,C0476254,visual impairment,['C0042798'],0.06779668,disease or syndrome,['NCT02964884'],have_had,1.0
+dyslexia,C0476254,ganglion,['C0085648'],0.0586111,disease or syndrome,['NCT04287530'],have_had,1.0
+dyslexia,C0476254,spina bifida,['C0080178'],0.056321569999999994,congenital abnormality,"['NCT02964884', 'NCT04386161']",have_had,2.0
+dyslexia,C0476254,speech therapy,['C0009460'],0.047969837999999994,mental or behavioral dysfunction|therapeutic or preventive procedure,"['NCT00818428', 'NCT02345876', 'NCT03448237', 'NCT04384952']",have_had,4.0
+dyslexia,C0476254,tenderness,['C0234233'],0.04703466,sign or symptom,['NCT02964884'],have_had,1.0
+dyslexia,C0476254,kidney failure,['C0035078'],0.041592779999999996,disease or syndrome,['NCT02964884'],have_had,1.0
+dyslexia,C0476254,deficiency,['C0162429'],0.0371336,disease or syndrome,['NCT02964884'],have_had,1.0
+dyslexia,C0476254,arachidonic acid,"['C2316832', 'C0003695']",0.035538443999999995,organic chemical|laboratory procedure,['NCT04287530'],looking_for,1.0
+dyslexia,C0476254,motion sickness,"['C0026603', 'C0721797']",0.03444684,disease or syndrome|pharmacologic substance|organic chemical,['NCT02879786'],have_had,1.0
+dyslexia,C0476254,procedural learning,['C4304298'],0.031049991,therapeutic or preventive procedure,['NCT02393729'],have_had,1.0
+dyslexia,C0476254,lovastatin 20 mg,['C0987282'],0.030448513,clinical drug,['NCT02964884'],looking_for,1.0
+dyslexia,C0476254,organic disease,['C0683324'],0.029802919999999997,disease or syndrome,['NCT01860027'],have_had,1.0
+dyslexia,C0476254,dopaminergic,['C0282151'],0.02918874,pharmacologic substance|biologically active substance|organic chemical,['NCT00111371'],looking_for,1.0
+dyslexia,C0476254,rehabilitation treatment,['C0034991'],0.027604134,therapeutic or preventive procedure,"['NCT02345876', 'NCT04287530', 'NCT04382482', 'NCT04384718']",have_had,4.0
+dyslexia,C0476254,attention deficit hyperactivity disorder,['C1263846'],0.026965224,mental or behavioral dysfunction,"['NCT02964884', 'NCT00716274', 'NCT04250701', 'NCT01012778', 'NCT00607919', 'NCT02217696', 'NCT03364010', 'NCT00191906']",have_had,8.0
+dyslexia,C0476254,electroencephalogram,['C0013819'],0.026412227999999996,diagnostic procedure,['NCT02872870'],have_had,1.0
+dyslexia,C0476254,auditory processing disorders,['C0004310'],0.026073324,mental or behavioral dysfunction,['NCT02345876'],have_had,1.0
+dyslexia,C0476254,adjustment disorder,['C0001546'],0.022478175000000003,mental or behavioral dysfunction,['NCT02964884'],have_had,1.0
+dyslexia,C0476254,physical disability,['C0520817'],0.021056847,pathologic function,['NCT04250701'],have_had,1.0
+dyslexia,C0476254,dysgraphia,['C0234144'],0.020797434000000004,mental or behavioral dysfunction,['NCT04250701'],have_had,1.0
+dyslexia,C0476254,neuropsychological test,['C0027902'],0.020328432,diagnostic procedure,"['NCT02393729', 'NCT02622360']",have_had,2.0
+dyslexia,C0476254,sensitization,['C3839736'],0.02010504,disease or syndrome,['NCT02107534'],have_had,1.0
+dyslexia,C0476254,mental retardation,['C0025362'],0.019184022,mental or behavioral dysfunction,['NCT02393729'],have_had,1.0
+dyslexia,C0476254,pufas,['C0032615'],0.018512901,biologically active substance|organic chemical,['NCT04287530'],looking_for,1.0
+dyslexia,C0476254,muscle damage,['C0410158'],0.01827421,acquired abnormality,['NCT02964884'],have_had,1.0
+dyslexia,C0476254,anxiety,['C0003467'],0.017061319999999998,sign or symptom|mental or behavioral dysfunction,"['NCT04059939', 'NCT02107534']",have_had,2.0
+dyslexia,C0476254,language disorders,['C0023015'],0.016802262,mental or behavioral dysfunction,['NCT02872870'],have_had,1.0
+dyslexia,C0476254,agraphia,['C0001825'],0.015874497,mental or behavioral dysfunction,['NCT03662243'],have_had,1.0
+dyslexia,C0476254,fatty acids,['C0015684'],0.015285609,organic chemical,['NCT04287530'],looking_for,1.0
+dyslexia,C0476254,functional magnetic resonance imaging,['C0376335'],0.012902694,diagnostic procedure,"['NCT00068835', 'NCT00254644', 'NCT00716274', 'NCT02393729']",have_had,4.0
+dyslexia,C0476254,cognitive assessment,['C0870300'],0.012472854,diagnostic procedure,['NCT03906097'],have_had,1.0
+dyslexia,C0476254,mild depression,['C0588006'],0.011151306,mental or behavioral dysfunction,['NCT02964884'],have_had,1.0
+dyslexia,C0476254,psychiatric disorder,['C0004936'],0.010979748,mental or behavioral dysfunction,"['NCT00607919', 'NCT02107534', 'NCT02217696', 'NCT02393729', 'NCT02964884']",have_had,5.0
+dyslexia,C0476254,optic gliomas,['C0346326'],0.010086,neoplastic process,['NCT02964884'],have_had,1.0
+dyslexia,C0476254,oppositional defiant disorder,['C0029121'],0.00931545,mental or behavioral dysfunction,['NCT02964884'],have_had,1.0
+dyslexia,C0476254,alexia,['C0002018'],0.008729190000000001,mental or behavioral dysfunction,['NCT03662243'],have_had,1.0
+dyslexia,C0476254,reading problem,['C1442921'],0.008658576,mental or behavioral dysfunction,['NCT03285789'],have_had,1.0
+dyslexia,C0476254,mri study,['C3515983'],0.008361936,diagnostic procedure,['NCT02393729'],have_had,1.0
+dyslexia,C0476254,electrophysiological studies,['C0850293'],0.006299268,diagnostic procedure,['NCT02872870'],have_had,1.0
+dyslexia,C0476254,psychotropic,['C0033978'],0.006091,pharmacologic substance,['NCT02964884'],looking_for,1.0
+dyslexia,C0476254,lovastatin,['C0024027'],0.00493855,pharmacologic substance|organic chemical,['NCT02964884'],looking_for,1.0
+dyslexia,C0476254,blood sugar,['C0005802'],0.004347,organic chemical,['NCT02964884'],looking_for,1.0
+dyslexia,C0476254,docosahexaenoic acid,['C0012968'],0.00138751,pharmacologic substance|biologically active substance|organic chemical,['NCT04287530'],looking_for,1.0
+dyslexia,C0476254,stimulant,['C0002763'],0.00107959,pharmacologic substance,['NCT02964884'],looking_for,1.0
+dyslexia,C0476254,retinal,['C0035331'],0.00068955,pharmacologic substance|organic chemical,['NCT04287530'],looking_for,1.0
